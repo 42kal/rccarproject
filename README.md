@@ -24,3 +24,5 @@ I don't think that's much to ask for as this is a beginner level project. I thin
 
 ## Findings
 For suspensions, suspension calculators are used to determine sag (how much the suspension compresses under weight of actual car), calculating spring rates to determine what stiffness/rate is needed for the load it will bear
+It aslso evaluates "suspension geometry" essentially you can design how your geometry is placed according to your center of gravity to compensate for things like squat or dive. Squat and dive happen during acceleration and deceleration. squat is when your lower suspension goes down, this is during the acceleration phase. Dive would be vice versa. I have a screenshot of a video that explained it to me
+![anti_squat](/Images/Learning/AntiDiveSuspensionVideo.png "by engineering explained")
