@@ -26,3 +26,8 @@ I don't think that's much to ask for as this is a beginner level project. I thin
 For suspensions, suspension calculators are used to determine sag (how much the suspension compresses under weight of actual car), calculating spring rates to determine what stiffness/rate is needed for the load it will bear
 It aslso evaluates "suspension geometry" essentially you can design how your geometry is placed according to your center of gravity to compensate for things like squat or dive. Squat and dive happen during acceleration and deceleration. squat is when your lower suspension goes down, this is during the acceleration phase. Dive would be vice versa. I have a screenshot of a video that explained it to me
 ![anti_squat](/Images/Learning/AntiDiveSuspensionVideo.png "by engineering explained")
+
+### 15.12.25
+I learned about differential turning systems, double wishbone suspension's capability of inducing beneficial negative camber when turning a corner. I was able to learn about the ackermann steering system, but not to the level where I understand the mechanics or physics of it. All I know is that the ackermann steering system makes the outer wheel turn more, as well as has the need for a 4 wheel drive differential.
+![Ackermann](/Images/Learning/AckermanSteering "by engineering explained")
+![DoubleWishbone](/Images/Learning/Doublewishbone "by engineering explained")
