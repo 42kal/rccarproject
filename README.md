@@ -29,6 +29,7 @@ It aslso evaluates "suspension geometry" essentially you can design how your geo
 
 ### 15.12.25
 I learned about differential turning systems, double wishbone suspension's capability of inducing beneficial negative camber when turning a corner. I was able to learn about the ackermann steering system, but not to the level where I understand the mechanics or physics of it. All I know is that the ackermann steering system makes the outer wheel turn more, as well as has the need for a 4 wheel drive differential.
-![Ackermann](/Images/Learning/AckermanSteering.png "by engineering explained")
+![Ackermann](/Images/Learning/AckermanSteering.png "by engineering explained" )
 ![DoubleWishbone](/Images/Learning/Doublewishbone.png "by engineering explained")
+<img src="/Images/Learning/AckermanSteering.png" alt="DoubleWishbone" width="50%" height="auto" figure="by engineering explained">
 
