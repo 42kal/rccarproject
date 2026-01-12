@@ -32,5 +32,11 @@ I learned about differential turning systems, double wishbone suspension's capab
 <img src="/Images/Learning/AckermanSteering.png" alt="Ackermann" width="50%" height="auto" figure="by engineering explained">
 <img src="/Images/Learning/Doublewishbone.png" alt="DoubleWishbone" width="50%" height="auto" figure="by engineering explained">
 
-
-
+### Defining the product
+* Smooth differentials with universal joints that have bearing
+* Drifting capabilities, meaning very large turning angle
+* Car inspired suspension geometry, camber, kingpin inclination, toe angle, caster
+* double wishbone suspension to smoothen rough terrain
+* A cool looking chassis using generated design to resist forces and keep car light, generative design from Fusion 360
+* Optimize for cheaper parts, I don't need that much power
+* Made of ABS
